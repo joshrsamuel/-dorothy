@@ -22,14 +22,14 @@ We learned information about Dorothy M. Crosland when it came to researching her
 ## What's next for Dorothy's Book Bonanza
 In the future, we hope to incorporate a soundtrack for the game. We also would love to implement more versatility in the animations of our objects. Lastly, we would want to incorporate the option to play as other significant women at Georgia Tech. 
 
-##Controls
+## Controls
 1. Left and Right to move left and right
 2. A to shoot
 3. Start to start the game and pause
 4. Select to return to the main menu while on the pause screen
 5. Right and Left Shoulder to dodge either to the right or left
 
-###Contributors
+### Contributors
 1. Jinxia Loo
 2. Joshua Samuel
 3. Jay Wu
