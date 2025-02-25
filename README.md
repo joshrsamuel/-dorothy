@@ -32,4 +32,4 @@ In the future, we hope to incorporate a soundtrack for the game. We also would l
 ### Contributors
 1. Jinxia Loo
 2. Joshua Samuel
-3. Jay Wu
+3. Jason Wu
